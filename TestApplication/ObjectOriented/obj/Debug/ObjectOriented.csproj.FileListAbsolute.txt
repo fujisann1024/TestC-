@@ -1,0 +1,7 @@
+C:\Users\twook\TestSource\TestApplication\ObjectOriented\bin\Debug\ObjectOriented.exe.config
+C:\Users\twook\TestSource\TestApplication\ObjectOriented\bin\Debug\ObjectOriented.exe
+C:\Users\twook\TestSource\TestApplication\ObjectOriented\bin\Debug\ObjectOriented.pdb
+C:\Users\twook\TestSource\TestApplication\ObjectOriented\obj\Debug\ObjectOriented.csprojAssemblyReference.cache
+C:\Users\twook\TestSource\TestApplication\ObjectOriented\obj\Debug\ObjectOriented.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\ObjectOriented\obj\Debug\ObjectOriented.exe
+C:\Users\twook\TestSource\TestApplication\ObjectOriented\obj\Debug\ObjectOriented.pdb

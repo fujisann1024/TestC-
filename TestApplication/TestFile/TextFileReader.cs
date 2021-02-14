@@ -9,13 +9,15 @@ namespace TestFile
 {
     class TextFileReader
     {
-        public static string fileParh1 = @"C:\Users\twook\TestLog\test1.txt";
+        public static string fileParh1 = @"C:\Users\twook\TestLog\Read\test1.txt";
 
-        public static string filePath2 = @"C:\Users\twook\TestLog\test2.txt";
+        public static string filePath2 = @"C:\Users\twook\TestLog\Read\test2.txt";
 
-        public static string filePath3 = @"C:\Users\twook\TestLog\test3.txt";
+        public static string filePath3 = @"C:\Users\twook\TestLog\Read\test3.txt";
 
-        public static string filePath4 = @"C:\Users\twook\TestLog\test4.txt";
+        public static string filePath4 = @"C:\Users\twook\TestLog\Read\test4.txt";
+
+        public static string filePath5 = @"C:\Users\twook\TestLog\Read\test5.txt";
         /// <summary>
         /// テキストファイルを1行ずつ読み込む
         /// </summary>
@@ -97,6 +99,10 @@ namespace TestFile
             }
         }
 
+        /// <summary>
+        /// ファイル内に数字行が存在する確認
+        /// 重複行,空白行を除き、並び替える
+        /// </summary>
         public void dispText4()
         {
             if (File.Exists(filePath4))
@@ -128,10 +134,31 @@ namespace TestFile
                     Console.WriteLine(line);
                 }
 
-
             }
             
         }
+
+        /// <summary>
+        /// 行ごとに何らかの変更処理を行う
+        /// </summary>
+        public void dispText5()
+        {
+
+            if (File.Exists(filePath5))
+            {
+                Console.WriteLine("----test5.txt-------");
+                var lines = File.ReadLines(filePath5)
+                             .Select((s, ix) => String.Format("{0,4}: {1}", ix + 1, s))
+                             .ToArray();
+
+                foreach (string line in lines)
+                {
+                    Console.WriteLine(line);
+                }
+            }
+        }
+
+        
 
 
     }

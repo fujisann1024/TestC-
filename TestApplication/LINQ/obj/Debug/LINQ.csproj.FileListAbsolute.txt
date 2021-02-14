@@ -1,0 +1,7 @@
+C:\Users\twook\TestSource\TestApplication\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\twook\TestSource\TestApplication\LINQ\bin\Debug\LINQ.exe
+C:\Users\twook\TestSource\TestApplication\LINQ\bin\Debug\LINQ.pdb
+C:\Users\twook\TestSource\TestApplication\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\twook\TestSource\TestApplication\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\LINQ\obj\Debug\LINQ.exe
+C:\Users\twook\TestSource\TestApplication\LINQ\obj\Debug\LINQ.pdb

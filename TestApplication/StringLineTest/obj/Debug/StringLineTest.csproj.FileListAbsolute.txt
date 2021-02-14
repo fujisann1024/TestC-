@@ -1,0 +1,7 @@
+C:\Users\twook\TestSource\TestApplication\StringLineTest\bin\Debug\StringLineTest.exe.config
+C:\Users\twook\TestSource\TestApplication\StringLineTest\bin\Debug\StringLineTest.exe
+C:\Users\twook\TestSource\TestApplication\StringLineTest\bin\Debug\StringLineTest.pdb
+C:\Users\twook\TestSource\TestApplication\StringLineTest\obj\Debug\StringLineTest.csprojAssemblyReference.cache
+C:\Users\twook\TestSource\TestApplication\StringLineTest\obj\Debug\StringLineTest.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\StringLineTest\obj\Debug\StringLineTest.exe
+C:\Users\twook\TestSource\TestApplication\StringLineTest\obj\Debug\StringLineTest.pdb
