@@ -17,13 +17,16 @@ namespace TestFile
             //textFile.dispText4();
             //textFile.dispText5();
 
-            TextFileWriter textFileWriter = new TextFileWriter();
-            textFileWriter.writeText("こんにちは");
-            textFileWriter.writeNextText("こんばんは");
-            textFileWriter.writeHeadText("おはよう");
+            //TextFileWriter textFileWriter = new TextFileWriter();
+            //textFileWriter.writeText("こんにちは");
+            //textFileWriter.writeNextText("こんばんは");
+            //textFileWriter.writeHeadText("おはよう");
 
-            List<string> texts = new List<string> { "東京","大阪","名古屋"};
-            textFileWriter.writeAllText(texts);
+            //List<string> texts = new List<string> { "東京","大阪","名古屋"};
+            //textFileWriter.writeAllText(texts);
+
+            var operation = new FileOperation();
+            operation.dispJudge1("");
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\twook\TestSource\TestApplication\ListApp\bin\Debug\ListApp.exe.config
+C:\Users\twook\TestSource\TestApplication\ListApp\bin\Debug\ListApp.exe
+C:\Users\twook\TestSource\TestApplication\ListApp\bin\Debug\ListApp.pdb
+C:\Users\twook\TestSource\TestApplication\ListApp\obj\Debug\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\ListApp\obj\Debug\ListApp.exe
+C:\Users\twook\TestSource\TestApplication\ListApp\obj\Debug\ListApp.pdb

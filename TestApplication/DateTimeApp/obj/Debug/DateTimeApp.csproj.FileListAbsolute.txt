@@ -1,0 +1,6 @@
+C:\Users\twook\TestSource\TestApplication\DateTimeApp\bin\Debug\DateTimeApp.exe.config
+C:\Users\twook\TestSource\TestApplication\DateTimeApp\bin\Debug\DateTimeApp.exe
+C:\Users\twook\TestSource\TestApplication\DateTimeApp\bin\Debug\DateTimeApp.pdb
+C:\Users\twook\TestSource\TestApplication\DateTimeApp\obj\Debug\DateTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\DateTimeApp\obj\Debug\DateTimeApp.exe
+C:\Users\twook\TestSource\TestApplication\DateTimeApp\obj\Debug\DateTimeApp.pdb

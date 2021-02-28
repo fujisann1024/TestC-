@@ -1,0 +1,6 @@
+C:\Users\twook\TestSource\TestApplication\MultiProgram\bin\Debug\MultiProgram.exe.config
+C:\Users\twook\TestSource\TestApplication\MultiProgram\bin\Debug\MultiProgram.exe
+C:\Users\twook\TestSource\TestApplication\MultiProgram\bin\Debug\MultiProgram.pdb
+C:\Users\twook\TestSource\TestApplication\MultiProgram\obj\Debug\MultiProgram.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\MultiProgram\obj\Debug\MultiProgram.exe
+C:\Users\twook\TestSource\TestApplication\MultiProgram\obj\Debug\MultiProgram.pdb

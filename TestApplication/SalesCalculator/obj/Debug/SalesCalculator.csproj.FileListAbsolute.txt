@@ -1,7 +1,6 @@
 C:\Users\twook\TestSource\TestApplication\SalesCalculator\bin\Debug\SalesCalculator.exe.config
 C:\Users\twook\TestSource\TestApplication\SalesCalculator\bin\Debug\SalesCalculator.exe
 C:\Users\twook\TestSource\TestApplication\SalesCalculator\bin\Debug\SalesCalculator.pdb
-C:\Users\twook\TestSource\TestApplication\SalesCalculator\obj\Debug\SalesCalculator.csprojAssemblyReference.cache
 C:\Users\twook\TestSource\TestApplication\SalesCalculator\obj\Debug\SalesCalculator.csproj.CoreCompileInputs.cache
 C:\Users\twook\TestSource\TestApplication\SalesCalculator\obj\Debug\SalesCalculator.exe
 C:\Users\twook\TestSource\TestApplication\SalesCalculator\obj\Debug\SalesCalculator.pdb

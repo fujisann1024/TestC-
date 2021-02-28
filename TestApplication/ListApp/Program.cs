@@ -46,15 +46,19 @@ namespace ListApp
             var count = books.Count(x => x.Title.Contains("物語"));
             Console.WriteLine($@"物語本:{count}");
 
-            //コレクションの判定
+            //コレクションの判定(いずれか)
             bool exists = books.Any(x => x.Price >= 1000);
             if (exists)
             {
                 Console.WriteLine("1000円以上の書籍がある");
             }
-            
 
-
+            //コレクションの判定(すべて)
+            bool is10000Less = books.All(x => x.Price <= 1000);
+            if (is10000Less)
+            {
+                Console.WriteLine("すべての書籍は1000円以下");
+            }
 
 
         }

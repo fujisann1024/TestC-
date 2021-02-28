@@ -1,0 +1,6 @@
+C:\Users\twook\TestSource\TestApplication\DictinaryApp\bin\Debug\DictinaryApp.exe.config
+C:\Users\twook\TestSource\TestApplication\DictinaryApp\bin\Debug\DictinaryApp.exe
+C:\Users\twook\TestSource\TestApplication\DictinaryApp\bin\Debug\DictinaryApp.pdb
+C:\Users\twook\TestSource\TestApplication\DictinaryApp\obj\Debug\DictinaryApp.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\DictinaryApp\obj\Debug\DictinaryApp.exe
+C:\Users\twook\TestSource\TestApplication\DictinaryApp\obj\Debug\DictinaryApp.pdb

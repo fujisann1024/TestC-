@@ -7,6 +7,8 @@ namespace ToDoApplication.ToDoApp.Common
 {
     public static class membersColumn
     {
+        public static readonly string tableName = "members";
+
         public static readonly string id = "id";
 
         public static readonly string name = "name";

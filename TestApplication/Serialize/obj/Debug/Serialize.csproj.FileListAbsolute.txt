@@ -1,0 +1,7 @@
+C:\Users\twook\TestSource\TestApplication\Serialize\bin\Debug\Serialize.exe.config
+C:\Users\twook\TestSource\TestApplication\Serialize\bin\Debug\Serialize.exe
+C:\Users\twook\TestSource\TestApplication\Serialize\bin\Debug\Serialize.pdb
+C:\Users\twook\TestSource\TestApplication\Serialize\obj\Debug\Serialize.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\Serialize\obj\Debug\Serialize.exe
+C:\Users\twook\TestSource\TestApplication\Serialize\obj\Debug\Serialize.pdb
+C:\Users\twook\TestSource\TestApplication\Serialize\obj\Debug\Serialize.csprojAssemblyReference.cache

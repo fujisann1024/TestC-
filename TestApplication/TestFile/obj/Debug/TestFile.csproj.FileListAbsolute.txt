@@ -1,7 +1,7 @@
 C:\Users\twook\TestSource\TestApplication\TestFile\bin\Debug\TestFile.exe.config
 C:\Users\twook\TestSource\TestApplication\TestFile\bin\Debug\TestFile.exe
 C:\Users\twook\TestSource\TestApplication\TestFile\bin\Debug\TestFile.pdb
-C:\Users\twook\TestSource\TestApplication\TestFile\obj\Debug\TestFile.csprojAssemblyReference.cache
 C:\Users\twook\TestSource\TestApplication\TestFile\obj\Debug\TestFile.csproj.CoreCompileInputs.cache
 C:\Users\twook\TestSource\TestApplication\TestFile\obj\Debug\TestFile.exe
 C:\Users\twook\TestSource\TestApplication\TestFile\obj\Debug\TestFile.pdb
+C:\Users\twook\TestSource\TestApplication\TestFile\obj\Debug\TestFile.csprojAssemblyReference.cache

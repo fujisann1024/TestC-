@@ -14,7 +14,7 @@ namespace LINQ
             Console.WriteLine(Count(numbers, delegate (int n) { return n % 7 == 0; }));
 
             //ラムダ式
-            var count = Count(numbers, n => return n % 7 == 0);
+            var count = Count(numbers, n => n % 7 == 0);
                 
 
 

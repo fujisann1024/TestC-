@@ -1,0 +1,7 @@
+C:\Users\twook\TestSource\TestApplication\AnotherProgram\bin\Debug\AnotherProgram.exe.config
+C:\Users\twook\TestSource\TestApplication\AnotherProgram\bin\Debug\AnotherProgram.exe
+C:\Users\twook\TestSource\TestApplication\AnotherProgram\bin\Debug\AnotherProgram.pdb
+C:\Users\twook\TestSource\TestApplication\AnotherProgram\obj\Debug\AnotherProgram.csprojAssemblyReference.cache
+C:\Users\twook\TestSource\TestApplication\AnotherProgram\obj\Debug\AnotherProgram.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\AnotherProgram\obj\Debug\AnotherProgram.exe
+C:\Users\twook\TestSource\TestApplication\AnotherProgram\obj\Debug\AnotherProgram.pdb
