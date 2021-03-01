@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiApp", "MultiApp\MultiA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherProgram", "AnotherProgram\AnotherProgram.csproj", "{682E345F-FBA8-4B65-BA63-FD6A010DDD36}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "library", "library", "{9D590020-A029-4D12-BB41-87F1463F145B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogManager", "LogManager\LogManager.csproj", "{694BE92A-4C21-4535-BB59-2A5E94A9DD00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +107,10 @@ Global
 		{682E345F-FBA8-4B65-BA63-FD6A010DDD36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{682E345F-FBA8-4B65-BA63-FD6A010DDD36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{682E345F-FBA8-4B65-BA63-FD6A010DDD36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694BE92A-4C21-4535-BB59-2A5E94A9DD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694BE92A-4C21-4535-BB59-2A5E94A9DD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694BE92A-4C21-4535-BB59-2A5E94A9DD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694BE92A-4C21-4535-BB59-2A5E94A9DD00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +129,7 @@ Global
 		{A430994E-28A3-4908-BD79-C888A1298E85} = {233B75E8-B35D-4200-B742-C92F7EE2D05F}
 		{9699C2DF-B146-412E-BA0C-F4769D41BFD0} = {233B75E8-B35D-4200-B742-C92F7EE2D05F}
 		{682E345F-FBA8-4B65-BA63-FD6A010DDD36} = {233B75E8-B35D-4200-B742-C92F7EE2D05F}
+		{694BE92A-4C21-4535-BB59-2A5E94A9DD00} = {9D590020-A029-4D12-BB41-87F1463F145B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {770E2664-CF8E-4ACD-A86C-60BE970D1116}

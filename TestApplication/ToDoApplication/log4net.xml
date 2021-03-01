@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	  <log4net>
+    <!-- ログ出力先の定義
+	name属性には任意の名前
+	type属性には下記のクラス
+	log4net.Appender.AdoNetAppender～データベース
+    log4net.Appender.ColoredConsoleAppender～コンソール
+	log4net.Appender.FileAppender～ファイル
+	log4net.Appender.SmtpAppender～メール	  
+-->
+    <appender name="LogFileAppender"
+              type="log4net.Appender.FileAppender" >
+
+      <!-- 作成するログファイル -->
+      <param name="File" value="C:\log-file\" />
+		
+	<!-- ファイル名の日付部分 -->
+      <param name="DatePattern" value='yyyyMMdd".log"' />
+      <!-- 日付ごとにファイルを作成することを指定 -->
+      <param name="RollingStyle" value="date" />
+		<!-- ログ・ファイル名が固定ではないので“false”を指定 -->
+      <param name="StaticLogFileName" value="false" />
+
+      <!-- 追加書き込み -->
+      <param name="AppendToFile" value="true" />
+		
+		<!-- 全てのログ・レベルとする -->
+      <filter type="log4net.Filter.LevelRangeFilter">
+         <param name="LevelMax" value="FATAL" />
+         <param name="LevelMin" value="DEBUG" />
+      </filter>
+      
+      <!-- rollingStyle がSizeまたはCompositeの時の最大ファイルサイズ -->
+      <param name="MaximumFileSize" value="10MB" />
+      <!-- ファイルを切替えるマックス数。ここでは3世代まで管理する -->
+      <param name="MaxSizeRollBackups" value="3" />
+
+      <!-- ログの出力書式 -->
+      <layout type="log4net.Layout.PatternLayout">
+        <ConversionPattern value="%date [%thread] [%-5level] %logger %file(%line) %class %method - %message%n" />
+      </layout>
+    </appender>
+
+    <root>
+      <!-- ログのレベルを指定 -->
+
+      <!-- すべてのログ・レベルを出力 -->
+      <level value="ALL" />
+
+      <!-- どのログ出力先を使用するか -->
+      <appender-ref ref="LogFileAppender" />
+    </root>
+
+  </log4net>
+</configuration>
