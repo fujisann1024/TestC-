@@ -41,6 +41,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "library", "library", "{9D59
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogManager", "LogManager\LogManager.csproj", "{694BE92A-4C21-4535-BB59-2A5E94A9DD00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagerApp", "TaskManagerApp\TaskManagerApp.csproj", "{320A6050-DAD7-47CC-B7C6-01D07480A9DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{694BE92A-4C21-4535-BB59-2A5E94A9DD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{694BE92A-4C21-4535-BB59-2A5E94A9DD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{694BE92A-4C21-4535-BB59-2A5E94A9DD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320A6050-DAD7-47CC-B7C6-01D07480A9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320A6050-DAD7-47CC-B7C6-01D07480A9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320A6050-DAD7-47CC-B7C6-01D07480A9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320A6050-DAD7-47CC-B7C6-01D07480A9DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

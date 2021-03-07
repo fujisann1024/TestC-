@@ -1,0 +1,7 @@
+C:\Users\twook\TestSource\TestApplication\LogManager\bin\Debug\LogManager.exe.config
+C:\Users\twook\TestSource\TestApplication\LogManager\bin\Debug\LogManager.exe
+C:\Users\twook\TestSource\TestApplication\LogManager\bin\Debug\LogManager.pdb
+C:\Users\twook\TestSource\TestApplication\LogManager\obj\Debug\LogManager.csprojAssemblyReference.cache
+C:\Users\twook\TestSource\TestApplication\LogManager\obj\Debug\LogManager.csproj.CoreCompileInputs.cache
+C:\Users\twook\TestSource\TestApplication\LogManager\obj\Debug\LogManager.exe
+C:\Users\twook\TestSource\TestApplication\LogManager\obj\Debug\LogManager.pdb

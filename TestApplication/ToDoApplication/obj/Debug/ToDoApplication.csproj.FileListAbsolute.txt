@@ -74,3 +74,5 @@ C:\Users\twook\TestSource\TestApplication\ToDoApplication\obj\Debug\ToDoApplicat
 C:\Users\twook\TestSource\TestApplication\ToDoApplication\obj\Debug\ToDoApplication.csproj.CopyComplete
 C:\Users\twook\TestSource\TestApplication\ToDoApplication\obj\Debug\ToDoApplication.dll
 C:\Users\twook\TestSource\TestApplication\ToDoApplication\obj\Debug\ToDoApplication.pdb
+C:\Users\twook\TestSource\TestApplication\ToDoApplication\bin\log4net.dll
+C:\Users\twook\TestSource\TestApplication\ToDoApplication\bin\log4net.xml

@@ -67,17 +67,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="View1\Test1.aspx" />
+    <Content Include="TestApp\View\Login.aspx" />
+    <Content Include="TestApp\View\Regist.aspx" />
+    <Content Include="TestApp\View\Welcome.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="View1\Test1.aspx.cs">
-      <DependentUpon>Test1.aspx</DependentUpon>
+    <Compile Include="TestApp\View\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="View1\Test1.aspx.designer.cs">
-      <DependentUpon>Test1.aspx</DependentUpon>
+    <Compile Include="TestApp\View\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestApp\View\Regist.aspx.cs">
+      <DependentUpon>Regist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestApp\View\Regist.aspx.designer.cs">
+      <DependentUpon>Regist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestApp\View\Welcome.aspx.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestApp\View\Welcome.aspx.designer.cs">
+      <DependentUpon>Welcome.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -88,6 +104,11 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="TestApp\Controller\" />
+    <Folder Include="TestApp\DAO\" />
+    <Folder Include="TestApp\Model\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
